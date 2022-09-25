@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Dangrek&family=Emilys+Candy&family=Henny+Penny&family=Inconsolata:wght@200;400&family=Irish+Grover&family=Kreon:wght@300&family=Poppins:wght@200;300&family=Rampart+One&family=Roboto+Slab:wght@100&family=Roboto:wght@300&display=swap');
+
+body{
+    
+    
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(110,67,159,1) 43%, rgba(79,129,213,1) 86%);
+}   
+
+h1{
+
+}
+
+p.sinopse{
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: ;
+}
+
+image{
+
+}
+
+
+
