@@ -1,1 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Dangrek&family=Emilys+Candy&family=Henny+Penny&family=Inconsolata:wght@200;400&family=Irish+Grover&family=Kreon:wght@300&family=Poppins:wght@200;300&family=Rampart+One&family=Roboto+Slab:wght@100&family=Roboto:wght@300&display=swap');
+
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(301deg, rgba(2,0,36,1) 0%, rgba(110,67,159,1) 43%, rgba(79,129,213,1) 86%);
+    text-align:center
+}
+
+h1{
+    font-family: 'Emilys Candy', cursive;
+    font-size: 50px;
+    color: #d2b342;
+}
+
+.info{
+    font-family: 'Dangrek', cursive;
+    font-size: 40px;
+    color: #d2b342;
+}
+    
+p.in{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.teoria{
+    font-family: 'Dangrek', cursive;
+    font-size: 40px;
+    color: #d2b342;
+}
+
+p.teor{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.produc{
+    font-family: 'Dangrek', cursive;
+    font-size: 40px;
+    color: #d2b342;
+}
+
+p.pro{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: white;
+}   
+
+
+.desenvolvedor{
+    font-family: 'Dangrek', cursive;
+    font-size:40px ;
+    color: #d2b342;
+}
+
+p.dev{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+img{
+    
+    border-radius: 50%;
+    border-color:black;
+    border-style: solid;
+    border-width:10px
+    
+}
+
+
 
