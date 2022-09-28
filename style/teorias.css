@@ -1,17 +1,18 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&family=Emilys+Candy&family=Henny+Penny&family=Inconsolata:wght@200;400&family=Irish+Grover&family=Kreon:wght@300&family=Poppins:wght@200;300&family=Rampart+One&family=Roboto+Slab:wght@100&family=Roboto:wght@300&display=swap');
 
 body{
-    background: rgb(0,36,2);
-    background: linear-gradient(270deg, rgba(0,36,2,1) 17%, rgba(41,143,40,1) 100%);
-
+    background: rgb(30,51,27);
+background: linear-gradient(270deg, rgba(30,51,27,1) 25%, rgba(36,156,34,1) 100%);
 }
 
 .titu{
-
+    font-size: 60px;
+    font-family: 'Emilys Candy', cursive;
 }
 
 h1{
     font-size: 40px;
+    font-family: 'Emilys Candy', cursive;
 
 }
 
@@ -22,5 +23,9 @@ p{
     text-align: justify;
 }
 
+.links{
+    color: black;
+    font-size: 20px;
 
+}
 
